@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/CyrilleKolle/CyrilleKolle/CyrilleKolle/readme.jpg "Header")](https://cyrillekolle.github.io/)
+[![Header](https://github.com/CyrilleKolle/CyrilleKolle/blob/main/readme.jpg "Header")](https://cyrillekolle.github.io/)
 
 
 
