@@ -2,10 +2,7 @@
 
 
 
-
-
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-
-
-[1]: https://www.linkedin.com/in/cyrille-ngide-kolle/
+Hi
+I am Cyrille
+Student developer currently interning at itiden.se
 
