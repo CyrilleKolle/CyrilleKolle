@@ -4,10 +4,8 @@
 
 
 
+[1.2]: http://i.imgur.com/wWzX9uB.png 
 
-# CyrilleKolle
 
-# future kickass developer
-
-## intern at itiden.se
+[1]: https://www.linkedin.com/in/cyrille-ngide-kolle/
 
