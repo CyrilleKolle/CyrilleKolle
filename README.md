@@ -2,7 +2,7 @@
 
 # Hello! <img src="https://github.com/CyrilleKolle/CyrilleKolle/blob/main/tenor.gif" width="30px">
 
-## My name is Cyrille and Im currently interning at [itiden.se](itiden.se)
+## My name is Cyrille and Im currently studying AI and Machine at IT-Högskolan, Göteborg
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilleKolle)](https://github.com/CyrilleKolle/github-readme-stats)
 
