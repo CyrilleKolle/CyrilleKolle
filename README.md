@@ -1,4 +1,7 @@
-[![Header](https://user-images.githubusercontent.com/56865654/217626459-79fc43c0-040a-4191-a922-f2adb937b5a6.JPG)]
+![Header](https://user-images.githubusercontent.com/56865654/217626459-79fc43c0-040a-4191-a922-f2adb937b5a6.JPG)
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cyrille-ngide-kolle/)
 
 
 # Greetings! <img src="https://github.com/CyrilleKolle/CyrilleKolle/blob/main/tenor.gif" width="30px">
@@ -9,7 +12,8 @@
 
 > I believe that my background in web and app development, combined with my current studies in AI and machine learning, make me a strong candidate for any role that requires a versatile and skilled individual with a passion for technology. I am always seeking new challenges and opportunities to expand my knowledge and contribute to the advancement of AI and machine learning
 
+>I am always reachable on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cyrille-ngide-kolle/).
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrilleKolle)](https://github.com/CyrilleKolle/github-readme-stats)
 
 [![Cyrille's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrilleKolle&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/CyrilleKolle/github-readme-stats)
-
