@@ -4,6 +4,7 @@
 # Contact
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cyrille-ngide-kolle/)
 
+Even stop by my personal page [www.cyrille.se](https://www.cyrille.se).
 
 # Greetings! <img src="https://github.com/CyrilleKolle/CyrilleKolle/blob/main/tenor.gif" width="30px">
 
@@ -14,7 +15,8 @@
 > I believe that my background in web and app development, combined with my current studies in AI and machine learning, make me a strong candidate for any role that requires a versatile and skilled individual with a passion for technology. I am always seeking new challenges and opportunities to expand my knowledge and contribute to the advancement of AI and machine learning
 
 >I am always reachable on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cyrille-ngide-kolle/).
-
+>
+>[www.cyrille.se](https://www.cyrille.se).
 #
 <h3>I have or in the process of amassing some technologies along my journey. Here are some:</h3>
 <p>
