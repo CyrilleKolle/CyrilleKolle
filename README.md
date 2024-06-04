@@ -1,5 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/56865654/217626459-79fc43c0-040a-4191-a922-f2adb937b5a6.JPG)
 
+> Currently working on [ometi.com](https://www.ometi.com)
 
 # Contact
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cyrille-ngide-kolle/)
@@ -8,7 +9,7 @@ Even stop by my personal page [www.cyrille.se](https://www.cyrille.se).
 
 # Greetings! <img src="https://github.com/CyrilleKolle/CyrilleKolle/blob/main/tenor.gif" width="30px">
 
->I am Cyrille, an individual with a strong foundation in web and app development and a growing interest in the field of artificial intelligence and machine learning. My background in programming languages such as Python, JavaScript, Typescript, Java, and HTML/CSS has equipped me with the necessary skills to develop and deliver innovative solutions to complex problems.
+>I am Cyrille, an individual with a strong foundation in web and app development and a growing interest in the field of artificial intelligence and machine learning. My background in programming languages such as Python, JavaScript, Typescript, Java, HTML/CSS has equipped me with the necessary skills to develop and deliver innovative solutions to complex problems.
 
 > However, my passion for technology has driven me to further my education in AI and machine learning. I am currently pursuing a deeper understanding of these cutting-edge technologies and their applications in various industries. I am eager to apply my knowledge and skills in this field to develop intelligent systems that can analyze vast amounts of data, recognize patterns, and make predictions with high accuracy.
 
