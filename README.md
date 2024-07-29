@@ -1,5 +1,3 @@
-![Header](https://user-images.githubusercontent.com/56865654/217626459-79fc43c0-040a-4191-a922-f2adb937b5a6.JPG)
-
 # Currently Working On  🚧
 
 > **[ometi.com](https://www.ometi.com)**
